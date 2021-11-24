@@ -1,0 +1,9 @@
+.nav-style {
+  text-decoration: none;
+  padding: 10px;
+  font-size: 18px;
+  color: rgb(66, 66, 66);
+}
+.nav-style:hover {
+  color: red;
+}
